@@ -1,9 +1,10 @@
 ---
+
 name:Claude Cleaner
 description:An easy tool for cleaning up files and bloat from your bots., temp files, cached data, or unnecessary software from a Windows or Linux system
 allowed-tools: Bash
-
-# System Cleanup — Debloat
+#Claude cleaner 
+---
 
 Run these in order. Skipping steps is fine depending on OS and use case.
 
