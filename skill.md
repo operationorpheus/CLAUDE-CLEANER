@@ -1,6 +1,6 @@
 ---
 name:Claude Cleaner
-description:An easy tool for cleaning up files and bloat from your bots. temp files, cached data, software from a Windows Linux system
+description:An easy tool for cleaning up files and bloat from your bots temp files, cached data, software from a Windows Linux system
 allowed-tools: Bash
 
 ---
